@@ -6,4 +6,4 @@ services:
     container_name: cypress
     command: npx cypress run
     volumes: 
-      - /Users/karthikkk/report/:/Users/karthikkk/report/
+      - /Users/imagemaker/Downloads/report/:/Users/imagemaker/Downloads/report/

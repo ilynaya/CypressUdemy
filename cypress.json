@@ -1,6 +1,6 @@
 {
     "video": true,
-    "screenshotsFolder": "/Users/karthikkk/report/",
+    "screenshotsFolder": "/Users/imagemaker/Downloads/report/",
     "baseUrl": "http://eaapp.somee.com/",
     "env": {
         "username": "admin"
